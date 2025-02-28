@@ -2,7 +2,7 @@
 console.log("Hello World");
 
 //pop-up alert
-alert("Hello World");
+// alert("Hello World");
 
 //writing to webpage
-document.write("Hello World");
+// document.write("Hello World");
